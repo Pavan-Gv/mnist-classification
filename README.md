@@ -171,6 +171,5 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 ![image](https://github.com/Pavan-Gv/mnist-classification/assets/94827772/5caded29-4069-4232-a911-3e78f96abad0)
 
 
-
 ## RESULT
 Therefore a model has been successfully created for digit classification using mnist dataset.
