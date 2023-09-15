@@ -159,12 +159,11 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 
 ### Classification Report
 
-![image](https://github.com/Pavan-Gv/mnist-classification/assets/94827772/31f08d4f-addd-40c1-ac6f-0f7f14562727)
-
+![image](https://github.com/Pavan-Gv/mnist-classification/assets/94827772/48c9dd64-4ec9-4b8c-ab8f-b875c85050b3)
 
 ### Confusion Matrix
 
-![image](https://github.com/Pavan-Gv/mnist-classification/assets/94827772/48c9dd64-4ec9-4b8c-ab8f-b875c85050b3)
+![image](https://github.com/Pavan-Gv/mnist-classification/assets/94827772/31f08d4f-addd-40c1-ac6f-0f7f14562727)
 
 
 ### New Sample Data Prediction
